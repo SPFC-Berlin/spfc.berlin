@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://spfc.berlin/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'SPFC Berlin'
+theme = 'blist'
