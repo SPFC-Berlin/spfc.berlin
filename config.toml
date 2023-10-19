@@ -68,8 +68,8 @@ DefaultContentLanguageInSubdir = true
     [languages.pt.params]
       introTitle = "Saudações Tricolores 🇾🇪 🇾🇪 🇾🇪"
       introSubtitle = "A SPFC Berlin é um movimento criado por crias das arquibancadas do Morumbi para levar esse clima pro nosso Morumberlim. Assim como está nos nossos vestiários, o SPFC vive mais forte em nós do que nós mesmos."
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introPhoto = "/logo.jpg"
+      logo = "/spfc_berlin_logo.png"
     [[languages.pt.menu.main]]
         name = "Blog"
         url = "blog"
@@ -95,7 +95,7 @@ DefaultContentLanguageInSubdir = true
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
@@ -118,7 +118,7 @@ DefaultContentLanguageInSubdir = true
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
-  ascentColor = "bg-red-600"
+  ascentColor = "bg-blue-100"
 
   # The page bundle that is shown on the front page
   frontBundle = "blog"
